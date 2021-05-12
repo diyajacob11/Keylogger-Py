@@ -1,5 +1,5 @@
 # Keylogger-Py
-Current functionality includes the ability to record keystrokes and take screenshots at every click.
+Current functionality includes the ability to record keystrokes and take screenshots at every click. All files are timestamped and sent to an FTP server.
 
 ### Prerequisite libraries
 <ol>
